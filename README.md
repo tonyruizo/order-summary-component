@@ -18,5 +18,5 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site here](https://www.order-summary-tonyruizo.netlify.app)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-HkEJwk5Xc)
+- Live Site URL: [live site here](https://order-summary-tonyruizo.netlify.app/)
