@@ -11,6 +11,7 @@ $brightBlue: hsl(245, 75%, 52%);
 $Very-paleBlue: hsl(225, 100%, 98%); 
 $DesaturatedBlue: hsl(224, 23%, 55%);
 $DarkBlue: hsl(223, 47%, 23%);
+$liveState:hsl(245, 66%, 66%);
 
 *{
   box-sizing: border-box;
@@ -126,7 +127,8 @@ body{
       p a{
         color: $brightBlue;
         &:hover {
-          color: $DesaturatedBlue;
+          color: $liveState;
+          text-decoration: none;
         }
       }
       
@@ -154,7 +156,7 @@ body{
       box-shadow: $brightBlue 0px 25px 20px -20px;
       
       &:hover{
-        background-color: $DesaturatedBlue;
+        background-color: $liveState;
         cursor: pointer;
       }
     }
